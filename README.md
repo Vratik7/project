@@ -1,12 +1,12 @@
 # project
-# 🎧 A Spotify Clone Data Analysis Project
+# Pokus o společný projekt na komunikaci mezi účastníky - data přístupu pacientů do nemocnice
 
-## **Project Overview**
+## **Přehled projektu**
 
-### **Objective:**
-Create a data-driven analysis of a music streaming platform, "Spotify Clone." This project aims to simulate the process of analyzing user behavior, music preferences, and trends, just like data analysts at Spotify would. The goal is to derive insights that can help improve user experience, recommend songs, and drive business growth.
+### **Cíle:**
+sem napsat texty, které se budou zobrazovat
 
-## **Project Breakdown**
+## **Části projektu**
 
 ### **1. Data Collection**
 - **Key Datasets to Create**:
