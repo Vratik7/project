@@ -34,3 +34,21 @@ sem napsat texty, které se budou zobrazovat
   - Bar charts showing the top genres/artists.
   - Line graphs tracking song popularity over time.
   - Pie charts for user segmentation.
+
+# CUBE PROJECT 
+`IN PYTHON`
+```
+import random
+
+minimum = 1
+
+maximum = 6
+
+def cube():
+    
+    return random. randint (minimum, maximum)
+
+print(cube())
+```
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/PNG_transparency_demonstration_1.png/640px-PNG_transparency_demonstration_1.png)
